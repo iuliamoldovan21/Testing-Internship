@@ -1,2 +1,2 @@
-gorji,2,2
-a,2,5
+MaxChair,1500,2
+iPhone,2000,50

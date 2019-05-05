@@ -41,7 +41,7 @@ public class UI {
 
     private void printFile() throws IOException {
         ArrayList<Product> products = ctrl.readFile();
-        for (int i = 0; i <= products.size(); i++) {
+        for (int i = 0; i < products.size(); i++) {
             System.out.println(products.get(i).getProductName() + " " + products.get(i).getPrice() + " " + products.get(i).getQuantity() + "\n");
         }
     }

@@ -5,7 +5,6 @@ public class Product {
     private Integer Price;
     private Integer Quantity;
 
-    //constructor with parameters
     public Product(String n, Integer p, Integer q) {
         ProductName = n;
         Price = p;

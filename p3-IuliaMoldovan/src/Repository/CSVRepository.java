@@ -8,7 +8,6 @@ import java.util.ArrayList;
 public class CSVRepository {
     private String filename;
 
-    //de ce?
     public CSVRepository(String filename) {
         this.filename = filename;
     }
